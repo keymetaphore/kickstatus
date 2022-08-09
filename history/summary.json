@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/mta.kick.lv",
     "slug": "kick-forums",
     "status": "down",
-    "uptime": "6.60%",
-    "uptimeDay": "6.60%",
-    "uptimeWeek": "6.60%",
-    "uptimeMonth": "6.60%",
-    "uptimeYear": "6.60%",
-    "time": 166,
-    "timeDay": 166,
-    "timeWeek": 166,
-    "timeMonth": 166,
-    "timeYear": 166,
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
+    "time": 244,
+    "timeDay": 244,
+    "timeWeek": 244,
+    "timeMonth": 244,
+    "timeYear": 244,
     "dailyMinutesDown": {
-      "2022-08-09": 0
+      "2022-08-09": 8
     }
   }
 ]
